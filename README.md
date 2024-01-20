@@ -14,3 +14,5 @@
 * R2 test skor : 0.8392
 * R2 eğitim skor : 0.8531
 * Polinom regresyon modelinde yaklaşık % 2'lik bir iyileşme gözlemledim.
+
+* Projenin asıl amacı daha iyi bir skor elde etmek değildir. Veri işleme ve regresyon modelleri üzerinde çalışmalar yaparak yeterliliğimi artırmaktır.
